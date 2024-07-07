@@ -59,4 +59,4 @@ Jupyter Notebook for interactive analysis
 This project provides valuable insights into the global and regional impact of COVID-19, utilizing data-driven analysis techniques to understand epidemiological trends, regional disparities, and the effectiveness of public health measures. The findings aim to support ongoing efforts in managing and mitigating the COVID-19 pandemic.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MEHRAN-DEV-AI/COVID-19-ANALYSIS/blob/main/LICENSE) file for details.
